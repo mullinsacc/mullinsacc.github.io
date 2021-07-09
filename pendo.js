@@ -10,9 +10,9 @@
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
-                id:              'user_id'   // Required if user is logged in
-                email:        'user_email' // Recommended if using Pendo Feedback, or NPS Email
-                full_name:    'user_full_name' // Recommended if using Pendo Feedback
+                id:              user_id   // Required if user is logged in
+                email:        user_email // Recommended if using Pendo Feedback, or NPS Email
+                full_name:    user_full_name // Recommended if using Pendo Feedback
                 // role:         // Optional
 
                 // You can add any additional visitor level key-values here,
@@ -20,7 +20,7 @@
             },
 
             account: {
-                id:           'user_account_id' // Highly recommended
+                id:           user_account_id // Highly recommended
                 // name:         // Optional
                 // is_paying:    // Recommended if using Pendo Feedback
                 // monthly_value:// Recommended if using Pendo Feedback
