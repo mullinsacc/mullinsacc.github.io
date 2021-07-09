@@ -1,10 +1,10 @@
 
 
 
-var user_id = 'IkoraRey';
-var user_email = 'alisyn.collins+3@gmail.com';
-var user_full_name = 'Ikora Rey';
-var user_account_id = 'Operation_Babydog';
+var user_id = 'CoachDaybreak';
+var user_email = 'coach@fantasyhigh.com';
+var user_full_name = 'Coach Daybreak';
+var user_account_id = 'FantasyHigh_Owlbears';
 var user_language = 'en_GB';
 var user_random_data = '';
 var user_boolean = true;
