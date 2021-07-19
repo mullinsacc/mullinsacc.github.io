@@ -1,11 +1,12 @@
 
 
 
-var user_id = 'CoachDaybreak';
-var user_email = 'coach@fantasyhigh.com';
-var user_full_name = 'Coach Daybreak';
-var user_account_id = 'FantasyHigh_Owlbears';
-var user_language = 'en_GB';
+var user_id = 'Dwight_Schrute';
+var user_email = 'dwightkschrute@dudnermifflin.com';
+var user_full_name = 'Dwight K Schrute';
+var user_account_id = 'Dunder Mifflin';
+var user_role = "Assistant To The Regional Manager";
+var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
 
