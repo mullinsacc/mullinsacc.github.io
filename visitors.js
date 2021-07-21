@@ -1,11 +1,11 @@
 
 
 
-var user_id = 'Dwight_Schrute';
-var user_email = 'dwightkschrute@dudnermifflin.com';
-var user_full_name = 'Dwight K Schrute';
-var user_account_id = 'Dunder Mifflin';
-var user_role = "Assistant To The Regional Manager";
+var user_id = 'Grabthars_Hammer';
+var user_email = 'grabthar@sonsofwarven.com';
+var user_full_name = 'Grabthar';
+var user_account_id = 'Sons of Warven';
+var user_role = "Avenger";
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
