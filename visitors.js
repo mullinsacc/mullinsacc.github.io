@@ -1,9 +1,9 @@
 
 
 
-var user_id = 'DemoUser1';
-var user_email = 'demo1@demo.com';
-var user_full_name = 'Demo One';
+var user_id = 'DemoUser2';
+var user_email = 'demo2@demo.com';
+var user_full_name = 'Demo TEO';
 var user_account_id = 'Demo Account';
 var user_role = "User";
 var user_language = 'en_US';
