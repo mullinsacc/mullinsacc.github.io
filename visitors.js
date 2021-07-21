@@ -1,11 +1,11 @@
 
 
 
-var user_id = 'Anna_Mullins';
-var user_email = 'anna.mullins@demo.com';
-var user_full_name = 'Anna Mullins';
+var user_id = 'DemoUser1';
+var user_email = 'demo1@demo.com';
+var user_full_name = 'Demo One';
 var user_account_id = 'Demo Account';
-var user_role = "Admin";
+var user_role = "User";
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
