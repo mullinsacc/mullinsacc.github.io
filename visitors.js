@@ -1,11 +1,11 @@
 
 
 
-var user_id = 'Grabthars_Hammer';
-var user_email = 'grabthar@sonsofwarven.com';
-var user_full_name = 'Grabthar';
-var user_account_id = 'Sons of Warven';
-var user_role = "Avenger";
+var user_id = 'Anna_Mullins';
+var user_email = 'anna.mullins@demo.com';
+var user_full_name = 'Anna Mullins';
+var user_account_id = 'Demo Account';
+var user_role = "Admin";
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
