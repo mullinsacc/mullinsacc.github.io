@@ -1,9 +1,9 @@
 
 
 
-var user_id = 'DemoUser3';
-var user_email = 'demo3@demo.com';
-var user_full_name = 'Demo User 3';
+var user_id = '123-123-123-123-123';
+var user_email = 'testexclude@demo.com';
+var user_full_name = 'Test Exclude Visitor';
 var user_account_id = 'Demo Acct';
 var user_role = "Account Manager";
 var user_language = 'en_US';
