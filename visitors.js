@@ -9,7 +9,7 @@ var user_role = "Princess";
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
-var user_account_tier = "Cosmic";
+var user_account_tier = "Cosmic"
 
 /*
 var user_id = 'AnaBray';
