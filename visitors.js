@@ -1,15 +1,15 @@
 
 
 
-var user_id = 'LumpySpacePrincess';
-var user_email = 'lsp@adventuretime.com';
-var user_full_name = 'Lumpy Space Princess';
-var user_account_id = 'Adventure Time';
-var user_role = "Princess";
+var user_id = 'DemoUser3';
+var user_email = 'demo3@demo.com';
+var user_full_name = 'Demo User 3';
+var user_account_id = 'Demo Acct';
+var user_role = "Account Manager";
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
-var user_account_tier = "Cosmic"
+var user_account_tier = "Enterprise"
 
 /*
 var user_id = 'AnaBray';
