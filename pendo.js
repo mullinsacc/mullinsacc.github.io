@@ -20,7 +20,8 @@
             },
 
             account: {
-                id:           user_account_id // Highly recommended
+                id:           user_account_id, // Highly recommended
+                account_tier    account_tier
                 // name:         // Optional
                 // is_paying:    // Recommended if using Pendo Feedback
                 // monthly_value:// Recommended if using Pendo Feedback
