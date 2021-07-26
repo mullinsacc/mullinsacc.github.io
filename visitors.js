@@ -9,6 +9,7 @@ var user_role = "User";
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
+var user_account_tier = "enterprise";
 
 /*
 var user_id = 'AnaBray';
