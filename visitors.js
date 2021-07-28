@@ -1,11 +1,11 @@
 
 
 
-var user_id = '123-123-123-123-123';
-var user_email = 'testexclude@demo.com';
-var user_full_name = 'Test Exclude Visitor';
-var user_account_id = 'Demo Acct';
-var user_role = "Account Manager";
+var user_id = 'Lemongrab';
+var user_email = 'lemongrab@castlelemongrab.com';
+var user_full_name = 'Lemongrab;
+var user_account_id = 'Castle Lemongrab';
+var user_role = "Earl of Lemongrab";
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
