@@ -3,7 +3,7 @@
 
 var user_id = 'Lemongrab';
 var user_email = 'lemongrab@castlelemongrab.com';
-var user_full_name = 'Lemongrab;
+var user_full_name = 'Lemongrab';
 var user_account_id = 'Castle Lemongrab';
 var user_role = "Earl of Lemongrab";
 var user_language = 'en_US';
