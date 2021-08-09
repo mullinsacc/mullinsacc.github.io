@@ -1,15 +1,15 @@
 
 
 
-var user_id = 'Lemongrab';
-var user_email = 'lemongrab@castlelemongrab.com';
-var user_full_name = 'Lemongrab';
-var user_account_id = 'Castle Lemongrab';
-var user_role = "Earl of Lemongrab";
+var user_id = 'PrincessBubblegum';
+var user_email = 'princessB@candykingdom.com';
+var user_full_name = 'Princess Bubblegum';
+var user_account_id = 'Candy Kingdom';
+var user_role = '';
 var user_language = 'en_US';
-var user_random_data = '';
+var user_random_data = 'Candy Elemental';
 var user_boolean = true;
-var user_account_tier = "Enterprise"
+var user_account_tier = ''
 
 /*
 var user_id = 'AnaBray';
