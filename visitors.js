@@ -10,6 +10,7 @@ var user_language = 'en_US';
 var user_random_data = 'Candy Elemental';
 var user_boolean = true;
 var user_account_tier = ''
+var user_account_access = 'Candy Kingdom, Farmworld, Tree House, Land of Ooo, Wizard City, Nightosphere'
 
 /*
 var user_id = 'AnaBray';
