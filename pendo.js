@@ -14,7 +14,7 @@
                 email:        user_email, // Recommended if using Pendo Feedback, or NPS Email
                 full_name:    user_full_name, // Recommended if using Pendo Feedback
                 role:         user_role,
-                account_access  user_account_access
+                account_access:  user_account_access
 
                 // You can add any additional visitor level key-values here,
                 // as long as it's not one of the above reserved names.
