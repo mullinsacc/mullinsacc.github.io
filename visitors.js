@@ -1,16 +1,16 @@
 
 
 
-var user_id = 'PrincessBubblegum';
-var user_email = 'princessB@candykingdom.com';
-var user_full_name = 'Princess Bubblegum';
-var user_account_id = 'Candy Kingdom';
+var user_id = 'TheIceKing';
+var user_email = 'theiceking@theicekingdom.com';
+var user_full_name = 'The Ice King';
+var user_account_id = 'The Ice Kingdom';
 var user_role = '';
 var user_language = 'en_US';
 var user_random_data = 'Candy Elemental';
 var user_boolean = true;
 var user_account_tier = ''
-var user_account_access = 'Candy Kingdom, Farmworld, Tree House, Land of Ooo, Wizard City, Nightosphere'
+var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of Ooo', 'Wizard City', 'Nightosphere']
 
 /*
 var user_id = 'AnaBray';
