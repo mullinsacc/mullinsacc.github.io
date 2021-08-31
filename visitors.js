@@ -1,13 +1,13 @@
 
 
 
-var user_id = 'TheIceKing';
-var user_email = 'theiceking@theicekingdom.com';
-var user_full_name = 'The Ice King';
-var user_account_id = 'The Ice Kingdom';
+var user_id = 'Marceline';
+var user_email = 'marceline@thenightosphere.com';
+var user_full_name = 'Marceline The Vampire Queen';
+var user_account_id = 'The Nightosphere';
 var user_role = '';
 var user_language = 'en_US';
-var user_random_data = 'Candy Elemental';
+var user_random_data = 'Bard';
 var user_boolean = true;
 var user_account_tier = ''
 var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of Ooo', 'Wizard City', 'Nightosphere']
