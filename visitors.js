@@ -11,7 +11,7 @@ var user_random_data = 'Bard';
 var user_boolean = true;
 var user_account_tier = ''
 var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of Ooo', 'Wizard City', 'Nightosphere']
-var user_account_creation_date = 2021-08-01T15:04:05.999-5:00
+var user_account_creation_date = '2021-08-01T15:04:05.999-5:00'
 
 /*
 var user_id = 'AnaBray';
