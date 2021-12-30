@@ -33,6 +33,13 @@
 
                 // You can add any additional account level key-values here,
                 // as long as it's not one of the above reserved names.
-            }
+            },
+          location: {
+              transforms:[
+                {
+                    'attr': 'pathname',
+                    'action': 'Replace',
+                    'data': 'buttons/components',
+                }]}
         });
 })('75a22ada-a24c-4f90-72af-21f71d9577ce');
