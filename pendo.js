@@ -9,7 +9,6 @@
         // Call this whenever information about your visitors becomes available
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
-            excludeAllText: true,
             visitor: {
                 id:              user_id,   // Required if user is logged in
                 email:        user_email, // Recommended if using Pendo Feedback, or NPS Email
