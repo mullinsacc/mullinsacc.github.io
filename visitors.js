@@ -5,13 +5,13 @@ var user_id = 'Marceline';
 var user_email = 'marceline@thenightosphere.com';
 var user_full_name = 'Marceline The Vampire Queen';
 var user_account_id = 'Wizard City';
-var user_role = '';
+var user_role = 'Vampire';
 var user_language = 'en_US';
 var user_random_data = 'Bard';
 var user_boolean = true;
 var user_account_tier = 'Enterprise'
 var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of Ooo', 'Wizard City', 'Nightosphere']
-var user_account_creation_date = '08/01/2021'
+var user_account_creation_date = '07/01/2021'
 
 /*
 var user_id = 'AnaBray';
