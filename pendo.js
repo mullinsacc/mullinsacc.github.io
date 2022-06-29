@@ -15,7 +15,8 @@
                 full_name:    user_full_name, // Recommended if using Pendo Feedback
                 role:         user_role,
                 account_access:  user_account_access,
-                account_creation_date: user_account_creation_date
+                account_creation_date: user_account_creation_date,
+                class: user_random_data
 
                 // You can add any additional visitor level key-values here,
                 // as long as it's not one of the above reserved names.
