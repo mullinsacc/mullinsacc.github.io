@@ -9,9 +9,11 @@ var user_account_id = '';
 var user_language = 'en_US';
 var user_random_data = 'Bard';
 var user_boolean = true;
-var user_account_tier = 'Enterprise'
-var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of Ooo', 'Wizard City', 'Nightosphere']
-var user_account_creation_date = '07/01/2021'
+var user_account_tier = 'Enterprise';
+var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of Ooo', 'Wizard City', 'Nightosphere'];
+var user_account_creation_date = '07/01/2021';
+var user_current_account_id = '';
+var user_current_parent_account_id = '';
 
 /*
 var user_id = 'AnaBray';
