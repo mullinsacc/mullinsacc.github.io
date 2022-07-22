@@ -1,4 +1,1 @@
-pendo.track("TestTrackEvent", {
-  name: "Test123",
-  value: "TestABC"
-});
+pendo.track("Completed_Snowflake_Config");
