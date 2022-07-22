@@ -36,8 +36,7 @@
 
                 // You can add any additional account level key-values here,
                 // as long as it's not one of the above reserved names.
-            },
-            pendo.track("Completed Snowflake Registration")
+            }
       //    location: {
       //        transforms:[
       //          {
