@@ -1,1 +1,2 @@
-pendo.track("Completed_Snowflake_Config");
+pendo.track("Course Name", {
+  registered: "true"});
