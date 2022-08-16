@@ -14,6 +14,8 @@ var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of 
 var user_account_creation_date = '07/01/2021';
 var user_current_account_id = '';
 var user_current_parent_account_id = '';
+var user_acct_value = '1000'
+var user_is_paying = 'true'
 
 /*
 var user_id = 'AnaBray';
