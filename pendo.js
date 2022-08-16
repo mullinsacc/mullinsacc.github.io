@@ -26,10 +26,10 @@
 
             account: {
                 id:           user_account_id, // Highly recommended
-                account_tier:    user_account_tier
-                // name:         // Optional
-                // is_paying:    // Recommended if using Pendo Feedback
-                // monthly_value:// Recommended if using Pendo Feedback
+                account_tier:    user_account_tier,
+                name:         user_account_id,
+                is_paying:    user_is_paying,
+                monthly_value:user_acct_value
                 // planLevel:    // Optional
                 // planPrice:    // Optional
                 // creationDate: // Optional
