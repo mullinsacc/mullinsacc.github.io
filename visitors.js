@@ -1,7 +1,7 @@
 
 
 
-var user_id = 'Marceline';
+var user_id = 'FeedbackUser';
 var user_email = 'marceline@thenightosphere.com';
 var user_full_name = 'Marceline The Vampire Queen';
 var user_account_id = 'The UpsideDown';
@@ -14,7 +14,7 @@ var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of 
 var user_account_creation_date = '07/01/2021';
 var user_current_account_id = 'Feedback Account';
 var user_current_parent_account_id = '';
-var user_acct_value = '1000'
+var user_acct_value = '700'
 var user_is_paying = 'true'
 
 /*
