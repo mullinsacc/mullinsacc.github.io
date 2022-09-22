@@ -1,10 +1,10 @@
 
 
 
-var user_id = 'TrackEventTester';
+var user_id = '';
 var user_email = 'marceline@thenightosphere.com';
 var user_full_name = 'Marceline The Vampire Queen';
-var user_account_id = 'Feedback Account';
+var user_account_id = '';
 //var user_role = 'Vampire';
 var user_language = 'en_US';
 var user_random_data = 'Bard';
