@@ -18,7 +18,9 @@
                 account_creation_date: user_account_creation_date,
                 class: user_random_data,
                 current_account_id: user_current_account_id,
-                current_parent_account_id: user_current_parent_account_id
+                current_parent_account_id: user_current_parent_account_id,
+                trial_start_date: user_trial_start_date,
+                conversion_date: user_conversion_date
 
                 // You can add any additional visitor level key-values here,
                 // as long as it's not one of the above reserved names.
