@@ -1,9 +1,9 @@
 
 
 
-var user_id = '';
-var user_email = 'marceline@thenightosphere.com';
-var user_full_name = 'Marceline The Vampire Queen';
+var user_id = 'conversion_test';
+var user_email = 'conversion@test.com';
+var user_full_name = 'Conversion Test User';
 var user_account_id = '';
 //var user_role = 'Vampire';
 var user_language = 'en_US';
