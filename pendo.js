@@ -1,4 +1,4 @@
-
+<script>
 (function(apiKey){
     (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=o._q||[];
     v=['initialize','identify','updateOptions','pageLoad','track'];for(w=0,x=v.length;w<x;++w)(function(m){
@@ -48,3 +48,4 @@
       //          }]}
         });
 })('75a22ada-a24c-4f90-72af-21f71d9577ce');
+</script>
