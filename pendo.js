@@ -9,10 +9,10 @@
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
-                id:             "{{user_id}}",   // Required if user is logged in
+                id:             user_id,   // Required if user is logged in
                 email:        user_email, // Recommended if using Pendo Feedback, or NPS Email
                 full_name:    user_full_name, // Recommended if using Pendo Feedback
-                //role:         user_role,
+                role:         user_role,
                 account_access:  user_account_access,
                 account_creation_date: user_account_creation_date,
                 class: user_random_data,
