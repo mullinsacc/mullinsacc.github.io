@@ -1,20 +1,20 @@
 
 
 
-var user_id = 'conversion_test';
-var user_email = 'conversion@test.com';
-var user_full_name = 'Conversion Test User';
-var user_account_id = 'feedbacktest';
-var user_role = 'Editor';
+var user_id = 'Anna_Mullins';
+var user_email = 'anna_mullins@test.com';
+var user_full_name = 'Anna Mullins';
+var user_account_id = 'Mullins Ltd';
+var user_role = 'Owner';
 var user_language = 'en_US';
-var user_random_data = 'Bard';
+var user_random_data = 'Admin Permissions';
 var user_boolean = true;
 var user_account_tier = 'Enterprise';
-var user_account_access = ['Candy Kingdom', 'Farmworld', 'Tree House', 'Land of Ooo', 'Wizard City', 'Nightosphere'];
-var user_account_creation_date = '07/01/2021';
-var user_current_account_id = 'Feedback Account';
+var user_account_access = ['Mullins Ltd', 'Mullins Enterprise', 'Mullins Inc,', 'Mullins LLC', 'Mullins World', 'Mullins Unlimited'];
+var user_account_creation_date = '11/18/2022';
+var user_current_account_id = 'Mullins Unlimited';
 var user_current_parent_account_id = '';
-var user_acct_value = '500';
+var user_acct_value = '1000000';
 var user_is_paying = 'true';
 var user_trial_start_date = "09/01/2022";
 var user_conversion_date = "09/25/2022"
