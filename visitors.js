@@ -2,7 +2,7 @@
 
 
 var user_id = 'Anna_Mullins';
-var user_email = 'anna_mullins@test.com';
+var user_email = 'anna_mullins@pendo.io';
 var user_full_name = 'Anna Mullins';
 var user_account_id = 'Mullins Ltd';
 var user_role = 'Owner';
