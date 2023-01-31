@@ -1,18 +1,18 @@
 
 
 
-var user_id = 'Anna_Mullins';
-var user_email = 'anna_mullins@pendo.io';
-var user_full_name = 'Anna Mullins';
-var user_account_id = 'Mullins Ltd';
-var user_role = 'Owner';
+var user_id = 'Taako_Taco';
+var user_email = 'taako_taco@food.com';
+var user_full_name = 'Taako Taco';
+var user_account_id = 'Taako Ltd';
+var user_role = 'Chef';
 var user_language = 'en_US';
-var user_random_data = 'Admin Permissions';
+var user_random_data = 'Inventor of the Taco';
 var user_boolean = true;
-var user_account_tier = 'Enterprise';
+var user_account_tier = 'Starter';
 var user_account_access = ['Mullins Ltd', 'Mullins Enterprise', 'Mullins Inc,', 'Mullins LLC', 'Mullins World', 'Mullins Unlimited'];
 var user_account_creation_date = '11/18/2022';
-var user_current_account_id = 'Mullins Unlimited';
+var user_current_account_id = 'Taako Unlimited';
 var user_current_parent_account_id = '';
 var user_acct_value = '1000000';
 var user_is_paying = 'true';
