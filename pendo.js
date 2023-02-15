@@ -14,6 +14,7 @@
                 full_name:    user_full_name, // Recommended if using Pendo Feedback
                 role:         user_role,
                 account_access:  user_account_access,
+                account_access_text: user_account_access_text,
                 account_creation_date: user_account_creation_date,
                 class: user_random_data,
                 current_account_id: user_current_account_id,
