@@ -19,6 +19,9 @@ var user_acct_value = '1000000';
 var user_is_paying = 'true';
 var user_trial_start_date = "09/01/2022";
 var user_conversion_date = "09/25/2022"
+var user_guide1complete = "no";
+var user_guide2complete = "no";
+var user_guide3complete = "no"
 
 /*
 var user_id = 'AnaBray';
