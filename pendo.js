@@ -31,7 +31,10 @@
                 account_tier:    user_account_tier,
                 name:         user_account_id,
                 is_paying:    user_is_paying,
-                monthly_value:user_acct_value
+                monthly_value:user_acct_value,
+                guide1complete: user_guide1complete,
+                guide2complete: user_guide2complete,
+                guide3complete: user_guide3complete
                 // planLevel:    // Optional
                 // planPrice:    // Optional
                 // creationDate: // Optional
