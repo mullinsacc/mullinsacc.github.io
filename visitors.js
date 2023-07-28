@@ -1,19 +1,19 @@
 
 
 
-var user_id = 'Taako_Taco';
-var user_email = 'taako_taco@food.com';
-var user_full_name = 'Taako Taco';
-var user_account_id = 'Taako Ltd';
-var user_role = 'Chef';
+var user_id = 'Michael_Scott';
+var user_email = 'michaelscott@dundermifflin.com';
+var user_full_name = 'Michael Scott';
+var user_account_id = 'Dunder_Mifflin';
+var user_role = 'Manager';
 var user_language = 'en_US';
-var user_random_data = 'Inventor of the Taco';
+var user_random_data = '';
 var user_boolean = true;
-var user_account_tier = 'Starter';
-var user_account_access = ['Mullins Ltd', 'Mullins Enterprise', 'Mullins Inc,', 'Mullins LLC', 'Mullins World', 'Mullins Unlimited'];
-var user_account_access_text = 'Mullins Ltd, Mullins Enterprise, Mullins Inc, Mullins LLC, Mullins World, Mullins Unlimited';
+var user_account_tier = 'Regional Manager';
+var user_account_access = '';
+var user_account_access_text = '';
 var user_account_creation_date = '11/18/2022';
-var user_current_account_id = 'Taako Unlimited';
+var user_current_account_id = 'Dunder Mifflin';
 var user_current_parent_account_id = '';
 var user_acct_value = '1000000';
 var user_is_paying = 'true';
