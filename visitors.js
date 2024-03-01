@@ -1,15 +1,15 @@
 
 
 
-var user_id = 'Michael_Scott';
-var user_email = 'michaelscott@dundermifflin.com';
-var user_full_name = 'Michael Scott';
+var user_id = 'Dwight_Schrute';
+var user_email = 'dwightkschrute@dundermifflin.com';
+var user_full_name = 'Dwight Schrute';
 var user_account_id = 'Dunder_Mifflin';
-var user_role = 'Manager';
+var user_role = 'Assistant to the Manager';
 var user_language = 'en_US';
 var user_random_data = '';
 var user_boolean = true;
-var user_account_tier = 'Regional Manager';
+var user_account_tier = 'Assistant';
 var user_account_access = '';
 var user_account_access_text = '';
 var user_account_creation_date = '11/18/2022';
