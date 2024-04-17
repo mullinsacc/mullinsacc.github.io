@@ -20,7 +20,8 @@
                 current_account_id: user_current_account_id,
                 current_parent_account_id: user_current_parent_account_id,
                 trial_start_date: user_trial_start_date,
-                conversion_date: user_conversion_date
+                conversion_date: user_conversion_date,
+                app_mode: user_app_mode
 
                 // You can add any additional visitor level key-values here,
                 // as long as it's not one of the above reserved names.
