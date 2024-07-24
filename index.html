@@ -21,7 +21,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }}();
 </script>
 
-<script>
+<!-- <script>
   analytics.identify('Andy_Bernard', {
   name: 'Andy Bernard',
   email_address: 'abernard@dundermifflin.com',
@@ -30,10 +30,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   special_group_size: 'Large Paper Company',
   special_group_region: 'Scranton'
 });
-</script>
+</script> -->
 
 <script>
-  analytics.group('dunder_mifflin_segment', {
+  analytics.group('Segment-Test-Group-ID', {
+  userId: 'Segment-Test-User-ID',
+  groupId: 'Segment-Test-Group-ID',
   name: 'Dunder Mifflin - Segment Division',
   size: 'mid-size paper company'
 });
