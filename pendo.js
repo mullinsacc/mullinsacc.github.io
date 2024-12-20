@@ -50,5 +50,7 @@
       //              'action': 'Replace',
       //              'data': 'buttons/components',
       //          }]}
+        autoFrameInstall: true,
+        frameIdentitySync: true,
         });
 })('086d448d-8f1e-48f6-4462-19d91226b697');
