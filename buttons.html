@@ -6,7 +6,14 @@
   <!-- <script src="pendo.js"></script> -->
   <script>pendo.updateOptions({ account: {"acct_tier":"crentist"} });</script>
 
-pendo.location.setUrl('https://my-cool-app.com/buttons/examples')
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    if (window.pendo && pendo.location) {
+      pendo.location.setUrl('https://my-cool-app.com/buttons/examples');
+    }
+  });
+</script>
+
 
   
   <meta charset="utf-8">
