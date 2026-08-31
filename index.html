@@ -124,6 +124,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- Custom styles for this template-->
   <link href="css/sb-admin-2.min.css" rel="stylesheet">
 
+<!-- in <head> or your stylesheet -->
+<style>
+  #pendo-resource-center-container {
+    position: fixed !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    top: auto !important;
+    left: auto !important;
+    transform: none !important;
+  }
+</style>
+  
   
   
 </head>
@@ -831,6 +843,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=70be359a-9c3d-41ee-9923-3011e9451a80"> </script>
 <!-- End of d3v-pendo-ts-test Zendesk Widget script -->
 
+
+<!-- right before </body>, or in an external .js file loaded there -->
+<script>
+  (function () {
+    var GUIDE_ID = 'Rh5CngffrnHMgL5K5HQaYWcFag8';
+    var RC_SELECTOR = '#pendo-resource-center-container';
+
+    function launchResourceCenter() {
+      if (window.pendo && typeof pendo.showGuideById === 'function') {
+        pendo.showGuideById(GUIDE_ID);
+      }
+    }
+
+    function forcePosition() {
+      var el = document.querySelector(RC_SELECTOR);
+      if (el) {
+        el.style.setProperty('position', 'fixed', 'important');
+        el.style.setProperty('bottom', '0px', 'important');
+        el.style.setProperty('right', '0px', 'important');
+        el.style.setProperty('top', 'auto', 'important');
+        el.style.setProperty('left', 'auto', 'important');
+      }
+    }
+
+    document.body.addEventListener('click', function (e) {
+      if (e.target.closest('[data-id="feedback-12345"]')) {
+        launchResourceCenter();
+      }
+    });
+
+    var observer = new MutationObserver(forcePosition);
+    observer.observe(document.body, { attributes: true, childList: true, subtree: true });
+  })();
+</script>
+
+  
 </body>
 
 </html>
